@@ -1,0 +1,6 @@
+*.txt
+*.loc
+*.json
+*.vscode
+*.o
+*.exe
